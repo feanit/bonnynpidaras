@@ -1,1 +1,250 @@
-
+{
+  "users": {
+    "8516314184": {
+      "nickname": "feanit",
+      "username": "tfbog",
+      "free_agent": true,
+      "club": null,
+      "retired": false,
+      "retire_date": null,
+      "last_free_agent_date": "2026-04-14T01:03:15.018053",
+      "last_custom_text_date": null,
+      "privilege": "player",
+      "reg_date": "2026-04-14T00:28:17.440940",
+      "last_nickname_change_date": null,
+      "last_request_time": "2026-04-14T01:02:49.649486"
+    },
+    "5868403053": {
+      "nickname": "j1rafix",
+      "username": "bonnyn_dsg",
+      "free_agent": true,
+      "club": null,
+      "retired": false,
+      "retire_date": null,
+      "last_free_agent_date": null,
+      "last_custom_text_date": null,
+      "privilege": "owner",
+      "reg_date": "2026-04-14T00:57:13.730639",
+      "last_nickname_change_date": null,
+      "last_request_time": "2026-04-14T00:58:21.417113"
+    }
+  },
+  "banned_users": {},
+  "team_owners": {
+    "5868403053": "Sunderland"
+  },
+"clubs_data": {
+  "Atlanta Hawks": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Boston Celtics": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Brooklyn Nets": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Charlotte Hornets": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Chicago Bulls": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Cleveland Cavaliers": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Dallas Mavericks": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Denver Nuggets": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Detroit Pistons": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Golden State Warriors": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Houston Rockets": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Indiana Pacers": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Los Angeles Clippers": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Los Angeles Lakers": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Memphis Grizzlies": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Miami Heat": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Milwaukee Bucks": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Minnesota Timberwolves": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "New Orleans Pelicans": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "New York Knicks": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Oklahoma City Thunder": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Orlando Magic": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Philadelphia 76ers": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Phoenix Suns": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Portland Trail Blazers": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Sacramento Kings": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "San Antonio Spurs": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Toronto Raptors": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Utah Jazz": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  },
+  "Washington Wizards": {
+    "owner_id": null,
+    "players": [],
+    "transfer_cooldowns": {},
+    "status": "active",
+    "closed_date": null
+  }
+  },
+  "pending_posts": {},
+  "pending_transfers": {}
+}
